@@ -2,6 +2,6 @@ int b();
 
 /* Jenkins project */
 int main() {
-	printf("rebuild trigger\n");
+	printf("automatic rebuild trigger\n");
 	b();
 }
